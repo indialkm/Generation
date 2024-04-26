@@ -1,0 +1,12 @@
+package fila;
+
+import java.util.Queue;
+
+public class Fila {
+	
+	Queue<Integer> fila = new LinkedList<Integer>()>;
+
+	fila.add(4);
+	
+	System.out.println(fila);
+}

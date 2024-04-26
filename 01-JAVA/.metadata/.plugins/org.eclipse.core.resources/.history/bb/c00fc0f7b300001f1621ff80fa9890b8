@@ -1,0 +1,17 @@
+package listaCondicionais;
+
+import java.util.Scanner;
+
+public class DiagramaAnimais4 {
+    public static void main(String[] args) {
+        Scanner leia = new Scanner(System.in);
+
+        String filo, reino, classe, genero;
+        
+        System.out.print("\t\t Taxonomia - Programa\n");
+        System.out.print("\n\t\t Adicione o filo: \n");
+        
+        
+        leia.close();
+    }
+}

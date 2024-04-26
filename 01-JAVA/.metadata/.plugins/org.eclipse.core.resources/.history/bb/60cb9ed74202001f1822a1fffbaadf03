@@ -1,0 +1,58 @@
+package vetorematrizes;
+
+import java.util.Scanner;
+
+public class jogoDaVelha {
+
+	public String jogadorX;
+    public String jogadorO;
+    
+    public static void main(String[] args) {
+        Scanner leia = new Scanner(System.in);
+        String jogadorX;
+        String jogadorO;
+        String tabuleiro[][] = new String[3][3];
+        int escolha = 1;
+       
+        // Aqui você pode colocar o código relacionado ao jogo da velha
+        
+        
+        do {
+        	printJogo(tabuleiro);
+        	
+        	
+        	
+        }while(escolha != 0);
+        
+        
+
+    }
+
+    public static void printJogo(String[][] array) {
+        for (int indice = 0; indice < array.length; indice++) {
+            for (int j = 0; j < array[indice].length; j++) {
+                System.out.printf("%d|", array[indice][j]);
+            }
+            System.out.println("");
+        }
+    }
+    
+    public static void jogador(String[][] array)
+    {
+    	for (int indice = 0; indice < array.length; indice++) {
+            for (int j = 0; j < array[indice].length; j++) {
+                System.out.printf("%d|", array[indice][j]);
+            }
+            System.out.println("");
+ 
+    }
+    
+   
+    
+    public static int completo(String[][] array)
+    {
+		return 0;
+    	
+    }
+    
+}

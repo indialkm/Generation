@@ -1,0 +1,13 @@
+package entradaDeDados;
+
+import java.util.Scanner;
+
+public class EntradaDeDados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Digite seu nome");
+		Scanner scan = new Scanner(System.in);
+	}
+
+}

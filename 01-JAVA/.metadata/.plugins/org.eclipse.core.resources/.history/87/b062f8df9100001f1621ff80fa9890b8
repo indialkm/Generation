@@ -1,0 +1,14 @@
+import java.util.Scanner; 
+package exercicio01;
+
+public class salario {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("Digite seu sálario: ");
+		float salario = leia.nextFloat();
+
+	}
+
+}

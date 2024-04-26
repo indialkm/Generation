@@ -1,0 +1,44 @@
+package lacosconcidicionais;
+
+import java.util.Scanner;
+
+public class lacosCondicionais {
+
+	public static void main(String[] args) {
+
+//		Faça um algoritmo em Java que leia 3 valores inteiros 
+//		A, B e C e imprima na tela se a soma de A + B é maior, menor ou igual a C.
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("Digite o 1º numero: "); 
+		int numero1 = leia.nextInt();
+		System.out.println("Digite o 2º numero: "); 
+		int numero2 = leia.nextInt();
+		System.out.println("Digite a operação "); 
+		String operacao = leia.next();
+		
+		switch(operacao)
+		{
+		case "+":
+			break;
+		case "-":
+			break;
+		case "*":
+			break;
+		case "/":
+			break;
+			default:
+				break;
+		
+		
+		}
+		
+		
+		
+		
+		
+
+	}
+
+}

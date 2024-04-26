@@ -1,0 +1,14 @@
+package vetorematrizes;
+
+import java.util.Random;
+
+public class vetor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Random numero = new Random(); 
+
+	}
+
+}

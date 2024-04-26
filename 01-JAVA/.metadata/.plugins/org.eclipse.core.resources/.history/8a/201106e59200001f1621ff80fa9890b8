@@ -1,0 +1,18 @@
+package exercicio01;
+
+import java.util.Scanner;
+
+public class calculoSalario {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		public static void main(String[] args) {
+			Scanner leia = new Scanner(System.in);
+			
+			System.out.println("Digite sálario: ");
+			float salario = leia.nextFloat();
+
+	}
+
+}

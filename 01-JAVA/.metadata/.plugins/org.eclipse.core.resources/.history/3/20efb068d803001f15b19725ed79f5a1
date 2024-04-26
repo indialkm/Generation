@@ -1,0 +1,25 @@
+package exercicios;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class filaLista01 {
+	public static void main(String[] args) {
+		
+		Queue<String> fila = new LinkedList<String>();
+		int menu = 1,selecao = 0;
+		
+		do {
+			System.out.println("Olá! Digite a opção\n|1|Adicionar um novo Cliente na fila.\n|2|Listar todos os Clientes na fila\n!3!Chamar(retirar) uma pessoa da fila\n|0|O programa deve ser finalizado\n");
+			switch(selecao) {
+			
+			
+			}
+			
+			
+		}while(menu != 1);
+		
+		
+	}
+
+}

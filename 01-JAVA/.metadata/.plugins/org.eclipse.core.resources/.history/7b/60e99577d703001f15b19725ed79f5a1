@@ -1,0 +1,8 @@
+package exercicios;
+
+public class filaLista01 {
+	public static void main(String[] args) {
+		
+	}
+
+}

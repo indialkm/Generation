@@ -1,0 +1,14 @@
+package exercicios;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class filaLista01 {
+	public static void main(String[] args) {
+		
+		Queue<String> fila = new LinkedList<String>();
+		
+		
+	}
+
+}
