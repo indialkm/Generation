@@ -1,7 +1,0 @@
-package listaCondicionais;
-
-public class diagramaAnimais4 {
-	String filo, reino,classe,genero;
-	
-	
-}
