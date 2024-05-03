@@ -7,7 +7,6 @@ INDEX VERSION 1.134+C:\Users\ingri\OneDrive\Documentos\Generation\Generation\01-
 2731384082.index
 3788112111.index
 1133031691.index
-2965411740.index
-2118442278.index
 909937595.index
+743048260.index
 3428980335.index
